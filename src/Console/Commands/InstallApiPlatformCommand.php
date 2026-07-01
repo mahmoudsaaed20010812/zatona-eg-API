@@ -54,7 +54,7 @@ class InstallApiPlatformCommand extends Command
 
             $this->newLine();
             $this->info(__('bagistoapi::app.graphql.install.api-endpoints'));
-            $this->line(__('bagistoapi::app.graphql.install.api-documentation', ['url' => 'https://api-docs.bagisto.com/']));
+            $this->line(__('bagistoapi::app.graphql.install.api-documentation', ['url' => 'https://app.zatona-eg.com/']));
             $this->line(__('bagistoapi::app.graphql.install.api-landing-page', ['url' => "{$appUrl}/api"]));
             $this->line(__('bagistoapi::app.graphql.install.graphql-playground', ['url' => "{$appUrl}/api/graphiql"]));
             $this->line(__('bagistoapi::app.graphql.install.rest-api-storefront', ['url' => "{$appUrl}/api/shop"]));

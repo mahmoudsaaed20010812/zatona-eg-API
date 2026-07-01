@@ -16,7 +16,7 @@ class ApiEntrypointController
         }
 
         return view('webkul::api-platform.docs-index', [
-            'documentation_url' => 'https://api-docs.bagisto.com',
+            'documentation_url' => 'https://app.zatona-eg.com',
             'rest_apis'         => [
                 [
                     'name'        => 'Shop API',

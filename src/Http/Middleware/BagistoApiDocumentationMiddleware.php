@@ -17,7 +17,7 @@ class BagistoApiDocumentationMiddleware
 
         if ($path === '/api') {
             return response()->view('webkul::api-platform.docs-index', [
-                'documentation_url'      => 'https://api-docs.bagisto.com',
+                'documentation_url'      => 'https://app.zatona-eg.com',
                 'graphql_playground_url' => config('app.url').'/api/graphql',
                 'rest_apis'              => [
                     [

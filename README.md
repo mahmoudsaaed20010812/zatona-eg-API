@@ -132,7 +132,7 @@ Tokens can be revoked at any time from the same page or via the signed link in t
 
 ## Documentation
 - Bagisto API: [Demo Page](https://api-demo.bagisto.com/api)
-- API Documentation: [Bagisto API Docs](https://api-docs.bagisto.com/)
+- API Documentation: [Bagisto API Docs](https://app.zatona-eg.com/)
 - GraphQL Playground (Shop): [Interactive Playground](https://api-demo.bagisto.com/api/graphiql)
 - GraphQL Playground (Admin): [Interactive Playground](https://api-demo.bagisto.com/api/admin/graphiql)
 - Release history: see [`CHANGELOG.md`](CHANGELOG.md)
