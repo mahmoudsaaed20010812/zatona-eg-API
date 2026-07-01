@@ -19,6 +19,7 @@ The fastest way to get started:
 ```bash
 composer require bagisto/bagisto-api:dev-main
 php artisan bagisto-api-platform:install
+
 التحديث فقط
 composer update bagisto/bagisto-api
 ```
