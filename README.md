@@ -17,8 +17,10 @@ Comprehensive REST and GraphQL APIs for seamless e-commerce integration and exte
 The fastest way to get started:
 
 ```bash
-composer require bagisto/bagisto-api
+composer require bagisto/bagisto-api:dev-main
 php artisan bagisto-api-platform:install
+التحديث فقط
+composer update bagisto/bagisto-api
 ```
 
 Your APIs are now ready! Access them at:
